@@ -1,2 +1,2 @@
-println("Hola, muchho gusto")
+println("Hola, mucho gusto")
 println("adios")
